@@ -1,6 +1,7 @@
 # Heap Inspector
 
 The specification for Project 3 is on the course website. This README describes the specification for a brand new tool that can aid in the development of the malloclab project.
+The IMPLEMENTATION is written in mm.c
 
 ## Motivation
 The heap inspector is a tool written in Python, C++, and C to catch common errors in execution right as they happen.
